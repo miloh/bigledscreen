@@ -1,0 +1,12 @@
+data/Makefile.i
+data/backward_bytes.h.i
+data/glider.sh.i
+data/gliders.sh.i
+data/ledlife.c.i
+data/ledlife.h.i
+data/ledlife.x.i
+data/life-unroll.c.i
+data/life-unroll.h.i
+data/mk_backward_bytes.pl.i
+data/send-cmd.pl.i
+data/xbee-pgm.pl.i
